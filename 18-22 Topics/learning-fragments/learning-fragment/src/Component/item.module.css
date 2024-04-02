@@ -1,0 +1,12 @@
+.kv-item {
+    background-color: darkgrey
+}
+
+.kv-span {
+    font-weight: 500;
+    color: green;
+}
+
+.button {
+    float: right;
+}
